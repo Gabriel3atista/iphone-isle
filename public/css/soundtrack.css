@@ -1,0 +1,16 @@
+.soundtrack {
+  -webkit-appearance: none;
+  outline: none;
+  border-radius: 999px;
+  background-color: #ffffff2d;
+  overflow: hidden;
+}
+
+.soundtrack::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 0px;
+  height: 0px;
+  border-radius: 999px;
+  box-shadow: -400px 0 0 400px #ffffff;
+  cursor: pointer;
+}
