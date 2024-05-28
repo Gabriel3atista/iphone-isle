@@ -3,7 +3,7 @@ import localFont from "next/font/local"
 import { clsx } from "clsx";
 
 const sfpro = localFont({ 
-  src: "../../public/assets/SF-Pro.ttf",
+  src: "../../public/assets/fonts/SF-Pro.ttf",
   variable: "--font-sfpro",
   weight: "400 700"
 });

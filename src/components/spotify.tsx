@@ -1,6 +1,6 @@
 "use client"
 
-import "../../public/css/soundtrack.css"
+import "../../public/assets/css/soundtrack.css"
 
 import Image from 'next/image'
 import { useState, useEffect, useRef } from 'react';

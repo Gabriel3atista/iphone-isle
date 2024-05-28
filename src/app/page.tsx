@@ -42,77 +42,7 @@ export default function Phone() {
       alt: "Clock Icon",
       width: 100,
       height: 100,
-    },
-    {
-      name: "default",
-      src: "/icons/books.png",
-      alt: "Books Icon",
-      width: 60,
-      height: 60,
-    },
-    {
-      name: "default",
-      src: "/icons/calculator.png",
-      alt: "Calculator Icon",
-      width: 60,
-      height: 60,
-    },
-    {
-      name: "default",
-      src: "/icons/contacts.png",
-      alt: "Contacts Icon",
-      width: 60,
-      height: 60,
-    },
-    {
-      name: "default",
-      src: "/icons/facetime.png",
-      alt: "FaceTime Icon",
-      width: 60,
-      height: 60,
-    },
-    {
-      name: "default",
-      src: "/icons/files.png",
-      alt: "Files Icon",
-      width: 60,
-      height: 60,
-    },
-    {
-      name: "default",
-      src: "/icons/fitness.png",
-      alt: "Fitness Icon",
-      width: 60,
-      height: 60,
-    },
-    {
-      name: "default",
-      src: "/icons/home.png",
-      alt: "Home Icon",
-      width: 60,
-      height: 60,
-    },
-    {
-      name: "default",
-      src: "/icons/mail.png",
-      alt: "Mail Icon",
-      width: 60,
-      height: 60,
-    },
-    {
-      name: "default",
-      src: "/icons/music.png",
-      alt: "Music Icon",
-      width: 60,
-      height: 60,
-    },
-    {
-      name: "default",
-      src: "/icons/phone.png",
-      alt: "Phone Icon",
-      width: 60,
-      height: 60,
-    },
+    }
   ]
   const variants = {
     initial: { 
